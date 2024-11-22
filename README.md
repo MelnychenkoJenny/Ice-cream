@@ -1,53 +1,34 @@
-# Проєкт Сайт Морозива
+# Ice Cream Website Project
+Main Idea: Create a user-friendly, functional, and informative page that is enjoyable to use.
 
-Головна ідея: створити зручну, функціональну, інформативну сторінку для користувача якою буде приємно користуватись.
+Deadline: 7 days
 
+## Our Team
+Team Lead: Nikita Lan
+Scrum Master: Yevheniia Melnychenko
 
-Термін виконання: 7 днів.
+Project Participants:
 
-
-## Наша команда
-
-Team Lead: Нікіта Лань
-
-Scrum-Master: Євгенія Мельниченко.
-
-Учасники проєкту:
-
-- Костянтин Кошик
-
-- Олександр Афанасьєв
-
-- Марія Александрова
-
-- Анна Настенко          
-
-- Олексій Лещенко
-
-- Артем Осипов
-
-- Юлія Іщенко
-
-- Ірина Негер
-
-- Захар Царапов
-
-- Анастасія Кулініч
-
-- Артем Панасюк
+- Kostiantyn Koshyk
+- Oleksandr Afanasiev
+- Mariia Aleksandrova
+- Anna Nastenko
+- Oleksii Leshchenko
+- Artem Osypov
+- Yuliia Ishchenko
+- Iryna Neher
+- Zakhar Tsarapov
+- Anastasiia Kulinych
+- Artem Panasiuk
 
 
-## Головні фічі проєкту 
+## Key Features of the Project
+- Smooth animations and a beautiful interface on load
+- Each section is colorful and rich in information
+- Additional functionality for users who want to learn more
+- Live reviews displayed on the homepage
+- Fully responsive design for all devices
 
-- Приємні анімації при відкритті, гарний інтерфейс
-
-- Кожна секція кольорова і наповнена інформацією
-
-- Додатковий фунціонал для споживачів, які хочуть знати більше
-
-- Живі відгуки на головній сторінці
-
-- Сайт адаптований під будь-який девайс
 
 ![desctop site](./assets/desctop1.jpg)
 ![desctop two site](./assets/desctop2.jpg)
